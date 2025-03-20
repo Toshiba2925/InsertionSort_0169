@@ -12,7 +12,7 @@ void input(){
             break;
         }
         else {
-            cout << "\nArray yang anda masukkan maksimal 20 Elemen.\n";
+            cout << "\nArray yang anda masukkan maksimal 20 Element.\n";
         }
     }
     cout << endl;
